@@ -1,0 +1,26 @@
+{
+  "name": "slack-app-installer",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/keke/slack-app-installer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keke/slack-app-installer/issues"
+  },
+  "homepage": "https://github.com/keke/slack-app-installer#readme",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "coffee-script": "^1.10.0",
+    "express": "^4.13.4",
+    "request": "^2.71.0",
+    "winston": "^2.2.0"
+  }
+}
